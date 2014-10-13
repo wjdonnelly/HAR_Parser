@@ -7,6 +7,7 @@ import os
 from datetime import datetime
 import json
 
+#refactor this code
 
 #set the constants
 platform = "odyssey"
